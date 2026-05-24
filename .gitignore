@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Working/temporary files
+*.tmp
+*.bak
+~*
+
+# Source files for diagrams (optional: uncomment if you don't want to track them)
+# *.xd
+# *.fig
+# *.sketch
